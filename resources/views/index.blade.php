@@ -171,14 +171,14 @@
         </div>
     </section>
     <footer class="footer-basic" style="margin-top: 51px;">
-        {{-- <section class="map-clean">
+        <section class="map-clean">
             <div class="container">
                 <div class="intro">
                     <h2 class="text-center">Location </h2>
                     <p class="text-center">Nunc luctus in metus eget fringilla. Aliquam sed justo ligula. Vestibulum nibh erat, pellentesque ut laoreet vitae. </p>
                 </div>
-            </div><iframe allowfullscreen="" frameborder="0" src="https://cdn.bootstrapstudio.io/placeholders/map.html" width="100%" height="450"></iframe>
-        </section> --}}
+            </div><iframe title="Location" allowfullscreen=""  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDfinzjWqzHxdWSqfV31iUEENNYsHohUh0&q=Institute+of+Management+Sciences+(IMSciences)%2C+Peshawar%2C+Phase+7+Hayatabad%2C+Peshawar&zoom=15" width="100%" height="450"></iframe>
+        </section>
         <div class="social"><a href="https://www.instagram.com/_noor_ul_islam"><i class="icon ion-social-instagram"></i></a><a href="https://www.snapchat.com/noorulislam770"><i class="icon ion-social-snapchat"></i></a><a href="https://www.twitter.com/noorulislam770"><i class="icon ion-social-twitter"></i></a><a href="https://www.facebook.com/noorulislam770"><i class="icon ion-social-facebook"></i></a></div>
         <ul class="list-inline">
             <li class="list-inline-item"><a href="#about">Home</a></li>
